@@ -1,4 +1,4 @@
-e321bd8 (HEAD -> main, origin/main, origin/HEAD) extracted switch statement
+e321bd8 extracted switch statement
 92a38a7 Task 1.2
 83f44e4 Task 1.1
 64c0c84 Initial commit
