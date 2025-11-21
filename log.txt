@@ -1,4 +1,6 @@
-fcfcf8f (HEAD -> main, origin/main, origin/HEAD) Task 2.3
+34b655e (HEAD -> main, origin/main, origin/HEAD) filled in checkmark
+d4a71cf Task 2.4
+fcfcf8f Task 2.3
 eee2c0d Task 2.2
 2169180 Task 2.1
 e321bd8 extracted switch statement
